@@ -40,3 +40,9 @@
   transition: 1s;
   transform: scale(1.1);
 }
+.journey
+{
+  font-size: 14.5px!important;
+    text-align: justify;
+    font-family: Helvetica!important;
+}
