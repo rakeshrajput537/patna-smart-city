@@ -36,3 +36,7 @@
   text-align: center;
   color: #5c5c5c;
 }
+.sectionimg :hover{
+  transition: 1s;
+  transform: scale(1.1);
+}
