@@ -23,3 +23,16 @@
  .active{
    border-bottom: 2px solid #ea8b01;
  }
+.sectionimg p
+{
+  padding-top: 3px;
+  font-family: ProximaNova;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: center;
+  color: #5c5c5c;
+}
