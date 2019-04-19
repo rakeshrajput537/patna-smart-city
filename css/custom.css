@@ -46,3 +46,11 @@
     /* text-align: justify; */
     font-family: Helvetica!important;
 }
+.dropdown:hover>.dropdown-menu {
+    display: block;
+ }
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+ }
+
+
